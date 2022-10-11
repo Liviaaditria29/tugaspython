@@ -1,0 +1,2 @@
+# tugaspython
+mensinkronasi folder
